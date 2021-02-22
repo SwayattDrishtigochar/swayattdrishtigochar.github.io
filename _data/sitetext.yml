@@ -56,9 +56,9 @@ clients:
       - title: "Make in India"
         url: https://www.makeinindia.com/
         logo: https://www.makeinindia.com/themes/bootstrap4/images/slider-img-1.png
-      #- title: "Creative Market"
-      #  url: https://github.com/raviriley/agency-jekyll-theme
-      #  logo: assets/img/clients/creative-market.jpg
+      - title: "Digital India"
+        url: https://www.digitalindia.gov.in
+        logo: https://digitalindia.gov.in/writereaddata/files/Headerlogo_0.png
     
 team:
     title: "OUR AMAZING TEAM"
@@ -139,7 +139,7 @@ team:
 
 contact:
     title: "Contact Us"
-    text: "reach us at fauzdaranshuman@gmail.com"
+    text: "reach us at SwayattDrishtigochar@gmail.com"
     section: contact
     
 footer:
@@ -151,7 +151,7 @@ footer:
 #        icon: "fab fa-github"
       - url: https://www.linkedin.com/company/swayattdrishtigochar/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/SvaayattDrashtigochar
+      - url: https://github.com/SwayattDrishtigochar
         icon: "fab fa-github"
 #      - url: https://instagram.com
 #        icon: "fab fa-instagram"
