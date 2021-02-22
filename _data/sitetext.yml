@@ -67,17 +67,17 @@ team:
     section: team
     people:
       - name: "Anshuman Fauzdar"
-#        role: "Lead Designer"
+        role: "CMD"
         image: https://miro.medium.com/fit/c/262/262/1*aYVVhYMmnxUziznwIYmDPA.jpeg # https://avatars.githubusercontent.com/u/40523329?s=96&v=4
         social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
+          - url: https://twitter.com/anshumanfauzdar
+            icon: fab fa-twitter
           - url: https://github.com/AnshumanFauzdar
             icon: fab fa-github
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
+          - url: https://www.linkedin.com/in/anshumanfauzdar/
+            icon: fab fa-linkedin-in
       - name: "Prateek Jindal"
-#        role: "Lead Marketer"
+        role: "Finance Head"
         image: https://avatars.githubusercontent.com/u/51196145?s=96&v=4
         social:
 #          - url: https://twitter.com
@@ -87,7 +87,7 @@ team:
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Akshay Goyal"
-#        role: "Lead Developer"
+        role: "CEO"
         image: assets/img/team/akshay.jpeg # https://avatars.githubusercontent.com/u/65530323?s=96&v=4
         social:
 #          - url: https://twitter.com
@@ -97,7 +97,7 @@ team:
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Shubham Rajput"
-#        role: "Lead Developer"
+        role: "Technical Head"
         image: https://avatars.githubusercontent.com/u/52489868?s=96&v=4
         social:
 #          - url: https://twitter.com
@@ -107,7 +107,7 @@ team:
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Sunny Vedwal"
-#        role: "Lead Developer"
+        role: "Administration"
         image: https://avatars.githubusercontent.com/u/51956566?s=96&v=4
         social:
 #          - url: https://twitter.com
@@ -117,7 +117,7 @@ team:
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Vinay Dhiman"
-#        role: "Lead Developer"
+        role: "Public Relations"
         image: https://avatars.githubusercontent.com/u/65610858?s=400
         social:
 #          - url: https://twitter.com
@@ -127,7 +127,7 @@ team:
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Vinayak Verma"
-#        role: "Lead Developer"
+        role: "HR"
         image: https://avatars.githubusercontent.com/u/38384489?s=96&v=4
         social:
 #          - url: https://twitter.com
