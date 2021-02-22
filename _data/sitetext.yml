@@ -49,7 +49,7 @@ clients:
     list:
       - title: "Startup India"
         url: https://www.startupindia.gov.in/
-        logo: https://upload.wikimedia.org/wikipedia/en/9/9d/Startup_India_logo.png
+        logo: "assets/img/clients/Startup_India_logo.png"
       - title: "Dite IIF"
         url:  https://www.diteiif.com/home
         logo: https://www.diteiif.com/img/img001.png
