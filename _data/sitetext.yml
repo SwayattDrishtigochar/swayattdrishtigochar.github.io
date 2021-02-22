@@ -68,7 +68,7 @@ team:
     people:
       - name: "Anshuman Fauzdar"
 #        role: "Lead Designer"
-        image: assets/img/team/anshu.jpeg # https://avatars.githubusercontent.com/u/40523329?s=96&v=4
+        image: https://miro.medium.com/fit/c/262/262/1*aYVVhYMmnxUziznwIYmDPA.jpeg # https://avatars.githubusercontent.com/u/40523329?s=96&v=4
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
