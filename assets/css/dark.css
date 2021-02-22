@@ -13,8 +13,6 @@ then add your css properties like normal. That's it!
 Scroll to the bottom to start adding your dark mode styles
 
 */
-
-/* note that Internet Explorer does not support css variables */
 :root {
     --dark: #000;
     --medium: #1b1b1b;
@@ -153,9 +151,17 @@ body.dark-mode .dark-toggle span {
 /* Begin adding your dark mode styles here, like so: */
 
 body.dark-mode {
-    background: #000
+    background: #2e2e2e
 }
 
 body.dark-mode p {
+    color: #fff
+}
+
+body.dark-mode h2 {
+    color: #fff
+}
+
+body.dark-mode h4 {
     color: #fff
 }
