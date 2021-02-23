@@ -165,3 +165,8 @@ body.dark-mode h2 {
 body.dark-mode h4 {
     color: #fff
 }
+
+
+body.dark-mode h4.subheading {
+    color: #6C757D
+}

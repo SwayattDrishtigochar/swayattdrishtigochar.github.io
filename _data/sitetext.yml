@@ -124,8 +124,8 @@ team:
 #            icon: fab fa-twitter
           - url: https://github.com/VinayDhiman
             icon: fab fa-github
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
+          - url: https://www.linkedin.com/in/vinay-dhiman-74b2681b0
+            icon: fab fa-linkedin-in
       - name: "Vinayak Verma"
         role: "HR"
         image: https://avatars.githubusercontent.com/u/38384489?s=96&v=4
@@ -134,8 +134,8 @@ team:
 #            icon: fab fa-twitter
           - url: https://github.com/V-kage
             icon: fab fa-github
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in 
+          - url: https://www.linkedin.com/in/vinayak-vs
+            icon: fab fa-linkedin-in 
 
 contact:
     title: "Contact Us"
