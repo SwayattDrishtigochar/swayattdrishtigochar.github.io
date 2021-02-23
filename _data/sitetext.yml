@@ -94,8 +94,8 @@ team:
 #            icon: fab fa-twitter
           - url: https://github.com/scorpiangoyal121
             icon: fab fa-github
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
+          - url: https://www.linkedin.com/mwlite/in/akshay-goyal-2822b6171
+            icon: fab fa-linkedin-in
       - name: "Shubham Rajput"
         role: "Technical Head"
         image: https://avatars.githubusercontent.com/u/52489868?s=96&v=4
