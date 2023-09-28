@@ -1,29 +1,30 @@
 header:
-    title: New Age Autonomous Inspection!
+    title: New Age Autonomous Maintenance!
     text: Enhancing Industrial Automation
     button: Tell Me More
     buttonlink: "#services"
 
 services:
     title: "Services"
-    text: "Automated Inspection"
+    text: "Automated Maintenance"
     section: services
     list:
       - title: "Equipment and Industrial Machinery"
         desc: "Using scalable technologies to develop hardware and software which is both economical and easy to use."
         icon: fas fa-magic #find more at https://fontawesome.com/icons
-      - title: "Computer Vision"
-        desc: "Automate surface visual inspection on product lines to ensure maximum productivity and quality in manufacturing."
+      - title: "Predictive Maintenance"
+        desc: "Digitizing industrial machine parameters with data-driven technology solutions to predict potential breakdowns, maintain safety, and optimize efficiency."
         icon: fas fa-laptop       
       - title: "Customer Service and Training"
-        desc: "Make product lines faster by smartly using robotics"
+        desc: "Make product lines faster by avoiding unwanted breakdowns"
         icon: fas fa-hands-helping
 
     
 
 timeline:
     title: "About" 
-    #text: "Lorem ipsum timeline"
+    text: "Our work centres around digitizing industrial machine parameters with data-driven technology solutions to predict potential breakdowns, maintain safety, and optimize efficiency by providing end-to-end Solutions including Hardware & Software.
+"
     #section: timeline
     # left is the default
     #start_align: "left"
