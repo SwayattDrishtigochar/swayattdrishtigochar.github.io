@@ -67,7 +67,7 @@ team:
     section: team
     people:
       - name: "Anshuman Fauzdar"
-        role: "CMD"
+        role: "Director"
         image: assets/img/team/anshuman.jpeg # https://avatars.githubusercontent.com/u/40523329?s=96&v=4
         social:
           - url: https://twitter.com/anshumanfauzdar
@@ -76,18 +76,8 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/anshumanfauzdar/
             icon: fab fa-linkedin-in
-      - name: "Prateek Jindal"
-        role: "Finance Head"
-        image: assets/img/team/prateek.jpg # https://avatars.githubusercontent.com/u/51196145?s=96&v=4
-        social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
-          - url: https://github.com/Pra-xo
-            icon: fab fa-github
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
       - name: "Akshay Goyal"
-        role: "CEO"
+        role: "Director"
         image: assets/img/team/akshay.jpeg # https://avatars.githubusercontent.com/u/65530323?s=96&v=4
         social:
 #          - url: https://twitter.com
@@ -96,18 +86,8 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/mwlite/in/akshay-goyal-2822b6171
             icon: fab fa-linkedin-in
-      - name: "Shubham Rajput"
-        role: "Technical Head"
-        image: https://avatars.githubusercontent.com/u/52489868?s=96&v=4
-        social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
-          - url: https://github.com/Shubham0Rajput
-            icon: fab fa-github
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
       - name: "Sunny Vedwal"
-        role: "Administration"
+        role: "Director"
         image: https://avatars.githubusercontent.com/u/51956566?s=96&v=4
         social:
 #          - url: https://twitter.com
@@ -116,26 +96,6 @@ team:
             icon: fab fa-github
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-      - name: "Vinay Dhiman"
-        role: "Public Relations"
-        image: https://avatars.githubusercontent.com/u/65610858?s=400
-        social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
-          - url: https://github.com/VinayDhiman
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/vinay-dhiman-74b2681b0
-            icon: fab fa-linkedin-in
-      - name: "Vinayak Verma"
-        role: "HR"
-        image: https://avatars.githubusercontent.com/u/38384489?s=96&v=4
-        social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
-          - url: https://github.com/V-kage
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/vinayak-vs
-            icon: fab fa-linkedin-in 
 
 contact:
     title: "Contact Us"
