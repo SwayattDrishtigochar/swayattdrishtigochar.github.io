@@ -88,7 +88,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Sunny Vedwal"
         role: "Director"
-        image: https://avatars.githubusercontent.com/u/51956566?s=96&v=4
+        image: assets/img/team/sunny.jpg
         social:
 #          - url: https://twitter.com
 #            icon: fab fa-twitter
