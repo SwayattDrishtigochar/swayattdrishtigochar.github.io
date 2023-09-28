@@ -129,6 +129,7 @@ contact:
     section: contact
     
 footer:
+    -url: https://autonomous-vision.gitbook.io/swayatt-drishtigochar/legal/terms-of-service
     legal: "Privacy Policy"
     social:
 #      - url: https://twitter.com
