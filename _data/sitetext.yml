@@ -30,20 +30,29 @@ timeline:
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2020-Present"
-        desc: "Our approach is to provide surface visual inspection at nominal cost using expertise and innovative technologies."
+        year: "2020"
+        desc: "Our approach is to provide Industrial Automation Solutions at nominal cost using expertise and innovative technologies."
         image: assets/img/timeline/1.jpg
         alt:
         # you can enforce the aligment
         align: right
         
-      - title: "Our Humble Beginnings"
-        year: "2020-Present"
-        desc: "Our approach is to provide surface visual inspection at nominal cost using expertise and innovative technologies."
+      - title: "Participating In Competitions"
+        year: "2021"
+        desc: "Took part in Samvedan 2021 Hackathon organized by IITM Pravartak technolgies Foundation, IIT Madras and Sony India under the problem statement of Predictive Maintenance."
         image: assets/img/timeline/1.jpg
         alt:
         # you can enforce the aligment
         align: left
+        
+      - title: "Winning"
+        year: "2022"
+        desc: "Won the Samvedan 2021 Hackathon along with 1 Lakh INR cash prize."
+        image: assets/img/timeline/1.jpg
+        alt:
+        # you can enforce the aligment
+        align: right
+        
     end: "Be Part <br> of Our <br> Story!"
 
 about:
