@@ -36,7 +36,7 @@ timeline:
         alt:
         # you can enforce the aligment
         align: right
-    events:
+        
       - title: "Our Humble Beginnings"
         year: "2020-Present"
         desc: "Our approach is to provide surface visual inspection at nominal cost using expertise and innovative technologies."
