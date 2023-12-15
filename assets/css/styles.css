@@ -1333,6 +1333,9 @@ Services Style
 .services .naccs .menu {
   text-align: center;
   margin-bottom: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .services .naccs .menu div {
@@ -1357,7 +1360,7 @@ Services Style
 }
 
 .services .naccs .menu div.active {
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
 }
 
 .services ul.nacc {
@@ -2035,9 +2038,18 @@ responsive
     margin-right: 0px;
     margin-bottom: 45px;
   }
+  .services .naccs .menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
   .services .naccs .menu div {
     font-size: 15px;
     font-weight: 500;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .service-item {
     text-align: center;
@@ -2094,10 +2106,20 @@ responsive
     display: inline-block;
   }
   .services .naccs .menu div .thumb {
-    padding: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .services .naccs .menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
   }
   .services .icon img {
     margin: 0px;
+    max-width: 40px;
+    min-width: 40px;
   }
   .services ul.nacc li.active {
     padding: 45px;
