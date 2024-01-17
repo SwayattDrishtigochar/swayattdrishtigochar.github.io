@@ -762,7 +762,7 @@ header
     overflow: hidden;
   }
   .header-area .main-nav .nav {
-    float: none;
+    /* float: none; */
     width: 100%;
     display: none;
     -webkit-transition: all 0s ease 0s;
@@ -770,6 +770,7 @@ header
     -o-transition: all 0s ease 0s;
     transition: all 0s ease 0s;
     margin-left: 0px;
+    margin-top: 0 !important;
   }
   .background-header .nav {
     margin-top: 80px;
